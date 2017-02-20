@@ -1,0 +1,190 @@
+#+TITLE: Bylaws
+#+AUTHOR: Distance Education, Libraries, and Information Technology
+#+DATE: February 2017
+#+ODT_STYLES_FILE: "template.ott"
+#+OPTIONS: H:2 num:t toc:nil
+
+Some other topics to consider include formlizing our relationship to
+other research computing groups, formalizing the process for taking on
+new tasks, formalizing the process for nominating new members.
+
+* Authorization.
+
+** University Rule.
+
+The Council on distance education, libraries and information
+technology (hereafter DELIT) is a standing committee of the University
+Senate and operates pursuant to Rule 3335-5-48.2 of the Administrative
+Code.
+
+** Subordination.
+
+All activities of DELIT are subject to the University Rules.  These
+Bylaws are likewise subject to, and must be consistent with, the
+University Rules and the University's Policies on Intellectual
+Property.  Where these Bylaws may differ from the University Rules or
+Policies on Intellectual Property, the Rules or Policies will govern.
+
+In questions of procedure and organization which are not specifically
+covered by these Bylaws or by the Rules, then the current edition of
+_Robert's Rules of Order_, will govern.
+
+* Charge.
+
+DELIT will
+
+- Formulate policies governing the delivery of distance education and educational and
+research activities and services of libraries and information technology.
+
+- Assist in the interpretation of distance education, library, and information technology
+services to the university community.
+
+- Assist in the presentation of major distance education, library and information technology
+needs to the university administration.
+
+- Advise the appropriate administrative office on the appointment of the associate vice
+president for distance education, the director of university libraries, and the chief
+information officer.
+
+* Membership.
+
+** Membership.
+
+According to University Rule 3335-5-48.2, the DELIT consists of
+sixteen members.
+
+1) Eight faculty, at least seven tenure-track faculty.
+
+2) Three students (one graduate student, one professional student, one undergraduate student).
+
+3) Four administrators (or their designees) namely the dean of the graduate school, the director of university libraries, the chief information officer, and the associate vice president for distance education.
+
+4) One staff member, appointed by the university staff advisory council.
+
+A vacancy does not prevent the DELIT from conducting its business.
+
+** Calendar year.
+
+Each term begins on August 15 of the appointment year.
+
+** Responsibilities.
+
+Members are expected to attend meetings, to contribute collegially to
+discussions, to send and receive e-mails from the membership and
+officers, and to study relevant issues or cases which are placed
+before the DELIT.
+
+* Officers.
+
+** Election.
+
+The election of new officers and proceeds by a written and recorded
+vote.
+
+** Officers.  
+
+The officers of DELIT consist of a Chair and a Vice-Chair.
+
+** Eligibility.
+
+Only members of the DELIT are eligible to be officers, and the Chair
+must be a member of the University faculty.
+
+** Election.  
+
+Each officer of DELIT is elected by a recorded and written majority
+vote of the membership.
+
+** Term and Schedule.
+
+Officers of the DELIT are elected in the Spring Semester at the last
+regular meeting of the academic year or via Electronic Voting.
+Officers hold office for 1 year, with their term beginning on the
+August 15 following their election and ending one year later.  
+
+** Temporary absence.
+
+When the Chair is temporarily absent, the Chair must appoint another
+faculty member of DELIT to serve as Chair.
+
+** Duties of Officers.
+
+*** Chair.
+
+The Chair calls and presides over all meetings of the DELIT and is
+responsible for the general direction of the DELIT and for setting the
+agenda of each meeting.  The Chair will distribute an agenda prior to
+each scheduled meeting via e-mail.
+
+The Chair is responsible for complying with FOIA and any other
+reporting requirements, including the initial drafting of the annual
+report.  At the conclusion of each Academic Year, the Chair ensures
+that the annual report and an accurate copy of these Bylaws are
+submitted to the Secretary of the University Senate.
+
+* Meetings.
+
+** Sufficient meetings.
+
+The DELIT holds at least six regular meetings each year.  At least
+three meetings occur during the Fall Semester and at least three
+meetings occur during the Spring semester.
+
+** Scheduling.
+
+Notice of a regular meeting must be made via e-mail to all DELIT
+members at least 48 hours in advance of any regular meeting.  All
+meeting announcements must contain a time and place.  All reasonable
+attempts will be made to schedule meetings of the DELIT at a time
+convenient for the membership.
+
+** Public.
+
+At regular meetings of the DELIT, all members of the University are
+welcome to attend.  The Chair may request non-members to be present at
+a regular meeting of the DELIT.
+
+Accurate minutes and attendance records of each meeting of the DELIT
+will be recorded and provided to members of DELIT.
+
+** Quorum.
+
+A majority of the voting membership constitutes a quorum.  When a
+quorum is present, the action of the majority of those present shall
+constitute the action of the entire DELIT, except as provided in these
+Bylaws.  Members not present may, in advance, assign their vote by
+proxy to another member through a written document or via e-mail
+disseminated to the full membership.  Such proxies will be considered
+as present for purposes of determining quorum and votes.
+
+** Electronic voting.
+
+Business of the DELIT may be conducted electronically.  Any member may
+make a proposal by sending e-mail to all other members of the DELIT
+containing the text of the proposal and a deadline (at least 48 hours
+in the future) when votes will be counted.  The proposal, if approved
+by a majority of the full membership, will take effect immediately at
+the scheduled deadline, as if a special meeting had been called.
+
+All votes must be made in public by e-mailing the membership of DELIT.
+A record of all such proposals and the results of such votes will be
+recorded in the meetings of the next regular meeting of the DELIT.
+
+** Subcommittees.
+
+The Chair may establish subcommittees as he/she may deem appropriate
+to accomplish specific short-term projects.  Subcommittees will
+provide timely reports to the full committee.
+
+* Amendments.
+
+** Majority vote.
+
+These Bylaws may be amended at any regular meeting by recorded and
+written vote of a majority of the members of the Council.
+
+** Prior notice.
+
+Thes Bylaws may only be amended provided the notice of the regular
+meeting announces that an amendment of these Bylaws is to be
+considered.
